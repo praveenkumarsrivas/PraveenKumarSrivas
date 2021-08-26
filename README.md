@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenkumarsrivas" alt="praveenkumarsrivas" /></a> </p>
 
-- 🔭 I’m currently working on [Creating a library which will extract the Date Time from a string in any format.](https://pypi.org/project/MyDateTimeLib/)
+- 🔭 I’m currently working on [Creating a python3 library which will extract the Date Time from a string in any format.](https://pypi.org/project/MyDateTimeLib/)
 
 - 🌱 I’m currently learning **AI/ML**
 
