@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praveen</h1>
-<h3 align="center" >Senior Software Engineer at <a href="https://www.radisys.com/" target="_blank"><img align="center" height=25 src ="https://github.com/praveenkumarsrivas/PraveenKumarSrivas/assets/11313549/ee64ff77-4c0d-447c-894f-d0153fcd642e"/></img></a>
+<h3 align="center" >Senior Software Engineer at <a href="https://www.radisys.com/" target="blank"><img align="center" height=25 src ="https://github.com/praveenkumarsrivas/PraveenKumarSrivas/assets/11313549/a48319d3-e0d3-421c-872c-0bba5f43e926"/></img></a>
+
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenkumarsrivas&label=Profile%20views&color=0e75b6&style=flat" alt="praveenkumarsrivas" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenkumarsrivas" alt="praveenkumarsrivas" /></a> </p>
