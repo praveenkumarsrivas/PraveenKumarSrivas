@@ -53,29 +53,30 @@
 <tr>
   <td valign="top" width="33%">
 
-### 💡 Programming
-- Python 🐍  
-- C++  
-- SQL  
-- Bash  
+### 💡 Programming  
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/></a>  
 
   </td>
   <td valign="top" width="33%">
 
-### 📊 Data Science
-- XGBoost, SVM, RF  
-- PySpark, SARIMA, Pyomo  
-- Jupyter, NumPy, Scikit-learn  
-- Forecasting, NLP, Anomaly Detection  
+### 📊 Data Science  
+<a href="#"><img src="https://img.shields.io/badge/XGBoost-FF8000?style=flat-square&logo=apachespark&logoColor=white"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>  
 
   </td>
   <td valign="top" width="33%">
 
-### 🧠 Generative AI
-- Prompt Engineering  
-- LLM Integration  
-- Transformers  
-- Generative Use Cases (AdTech & Logs)  
+### 🧠 Generative AI  
+<a href="#"><img src="https://img.shields.io/badge/Transformers-FFCC00?style=flat-square&logo=huggingface&logoColor=black"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/LLM-6A5ACD?style=flat-square&logo=openai&logoColor=white"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=spaCy&logoColor=white"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=flat-square&logo=promptengineering&logoColor=white"/></a>  
 
 </td>
 </tr>
@@ -83,44 +84,55 @@
 <tr>
 <td valign="top" width="33%">
 
-### 🗃️ Storage & Infra
-- Apache Cassandra  
-- HDFS  
-- Elasticsearch  
-- Kibana  
+### 🗃️ Storage & Infra  
+<a href="#"><img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/HDFS-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/Kibana-4E4E4E?style=flat-square&logo=kibana&logoColor=white"/></a>  
 
 </td>
 <td valign="top" width="33%">
 
-### ☁️ Big Data & DevOps
-- Spark Cluster  
-- PySpark  
-- Docker  
-- Logstash  
+### ☁️ Big Data & DevOps  
+<a href="#"><img src="https://img.shields.io/badge/Spark-FF5722?style=flat-square&logo=apachespark&logoColor=white"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/Logstash-85BF25?style=flat-square&logo=logstash&logoColor=white"/></a>  
 
 </td>
 <td valign="top" width="33%">
 
-### 📈 Optimization & Modeling
-- Linear Programming  
-- Simulation Modeling  
-- Pyomo  
-- Data Pipelines  
+### 📈 Optimization & Modeling  
+<a href="#"><img src="https://img.shields.io/badge/Linear%20Programming-00618A?style=flat-square&logo=linear&logoColor=white"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/Pyomo-003B57?style=flat-square&logo=python&logoColor=white"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/Data%20Pipelines-2C3539?style=flat-square&logo=airflow&logoColor=white"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/Forecasting-007ACC?style=flat-square&logo=chartdotjs&logoColor=white"/></a>  
 
 </td>
 </tr>
 </table>
 
+
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenkumarsrivas&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumarsrivas&layout=compact&theme=radical&hide_border=true" height="180" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumarsrivas&theme=radical&hide_border=true" height="180" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=praveenkumarsrivas&show_icons=true&theme=radical&hide_border=true" width="300"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumarsrivas&layout=compact&theme=radical&hide_border=true" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumarsrivas&theme=radical&hide_border=true" width="450"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
