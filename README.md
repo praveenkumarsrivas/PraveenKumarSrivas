@@ -33,6 +33,6 @@
 <p><img height="120" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenkumarsrivas&show_icons=true&locale=en&layout=compact" alt="praveenkumarsrivas" />&nbsp;<img width="290" align="center" src="https://github-readme-stats.vercel.app/api?username=praveenkumarsrivas&show_icons=true&locale=en" alt="praveenkumarsrivas" />&nbsp;<img height="120" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumarsrivas&" alt="praveenkumarsrivas" /></p>
 
 
-## Star History
+## Star History (For top Repos only)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=praveenkumarsrivas/Jarvis-AI-using-python3-&type=Date)](https://www.star-history.com/#praveenkumarsrivas/Jarvis-AI-using-python3-&Date)
