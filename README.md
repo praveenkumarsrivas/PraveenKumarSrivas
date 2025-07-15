@@ -30,7 +30,7 @@
 
 > **“Started as a problem solver. Evolved into a visionary.”**
 
-- 🧠 3+ years of experience driving **AI/ML innovation**
+- 🧠 4.5+ years of experience driving **AI/ML innovation**
 - 🌐 Built scalable systems for **Jio Ads**, including ML retargeting and campaign optimization
 - 🎯 Achieved 26% growth in platform engagement via intelligent ad targeting
 - 🔍 82% anomaly detection accuracy in 5G systems
