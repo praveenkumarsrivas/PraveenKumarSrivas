@@ -10,21 +10,34 @@
 | 🧠 Generative AI | 📈 ML Expert | 📊 Data Strategist | 🐍 Python Craftsman
 </h3>
 
----
+<img width="1000" height="10" alt="image" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-### ✨ Introduction
 
 <p align="center">
-💡 <em>"Turning raw data into real-world impact — from ads that connect millions to AI that empowers healthcare."</em>
+  <!-- Line 1 -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=3000&color=00E0FF&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+real+world+impact" alt="Typing line 1" />
+  </a><br>
+
+  <!-- Line 2 -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=3000&color=00E0FF&center=true&vCenter=true&width=650&lines=From+ads+that+connect+millions" alt="Typing line 2" />
+  </a><br>
+
+  <!-- Line 3 -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2400&pause=3000&color=00E0FF&center=true&vCenter=true&width=650&lines=To+AI+that+empowers+healthcare" alt="Typing line 3" />
+  </a>
 </p>
 
 <p align="center">
-I’m a <strong>Senior Data Scientist</strong> passionate about building intelligent systems that learn, adapt, and scale.  
-At <strong>GE HealthCare</strong>, I drive innovations in <strong>Generative AI</strong>, <strong>predictive healthcare</strong>, and <strong>data-driven intelligence</strong> — shaping the future of diagnostics and decision-making.  
-Previously at <strong>Radisys (Jio Platforms)</strong>, I built ML pipelines for 5G, AdTech, and automation, transforming how data powers connectivity.
+  I’m a <strong>Senior Data Scientist</strong> passionate about building intelligent systems that learn, adapt, and scale.<br>
+  At <strong>GE HealthCare</strong>, I drive innovations in <strong>Generative AI</strong>, <strong>predictive healthcare</strong>, and <strong>data-driven intelligence</strong> — shaping the future of diagnostics and decision-making.<br>
+  Previously at <strong>Radisys (Jio Platforms)</strong>, I built ML pipelines for 5G, AdTech, and automation, transforming how data powers connectivity.
 </p>
 
----
+<img width="1000" height="10" alt="image" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 
 <p align="center">
   <a href="https://github.com/praveenkumarsrivas">
@@ -42,7 +55,8 @@ Previously at <strong>Radisys (Jio Platforms)</strong>, I built ML pipelines for
   <img src="https://github-profile-trophy.vercel.app/?username=praveenkumarsrivas&theme=tokyonight&row=1&margin-w=15&margin-h=15" />
 </p>
 
----
+<img width="1000" height="10" alt="image" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 
 ## 🏆 Career Journey
 
@@ -58,7 +72,8 @@ Previously at <strong>Radisys (Jio Platforms)</strong>, I built ML pipelines for
 > - ⚙️ 82% anomaly detection accuracy in 5G  
 > - 🏅 *Best Jio Partner Employee – 2024*
 
----
+<img width="1000" height="10" alt="image" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 
 ## ⚡ Professional Highlights
 
@@ -67,7 +82,8 @@ Previously at <strong>Radisys (Jio Platforms)</strong>, I built ML pipelines for
 - Contributor to open-source Python projects  
 - Skilled in **GenAI frameworks**, **LLMs**, **vector databases**, and **MLOps**  
 
----
+<img width="1000" height="10" alt="image" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 
 ## 💻 Tech Arsenal
 
@@ -134,36 +150,61 @@ Previously at <strong>Radisys (Jio Platforms)</strong>, I built ML pipelines for
 </tr>
 </table>
 
----
+<img width="1000" height="10" alt="image" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenkumarsrivas&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumarsrivas&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumarsrivas&theme=tokyonight&hide_border=true" width="450"/>
-</p>
-
----
 
 ## 🎓 Education
 
 🎓 **NITK Surathkal** – MCA (2017–2020)  
 📘 **IEHE Bhopal** – B.Sc. (Maths Hons., 2013–2016)
 
----
+<img width="1000" height="10" alt="image" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 
 ## 🏅 Achievements
 
 🏆 *Best Jio Partner Employee – 2024*  
 ⭐ *5-Star HackerRank – Problem Solving*  
-🎯 *AIR 176 – NIMCET 2017*  
 🚀 *IGNITE’19 Convenor – All India MCA Meet*
+🎯 *AIR 176 – NIMCET 2017*
+
+<img width="1000" height="10" alt="image" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=praveenkumarsrivas&show_icons=true&theme=tokyonight&hide_border=true" width="420" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumarsrivas&layout=compact&theme=tokyonight&hide_border=true" width="380" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumarsrivas&theme=tokyonight&hide_border=true" width="500" />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
+
+## 🌟 Star History
+
+<div align="center">
+  <img src="https://api.star-history.com/svg?repos=praveenkumarsrivas/Jarvis-AI-using-python3-&type=Date&theme=dark" width="650" alt="Star History Chart"/>
+</div>
+
+
+<img width="1000" height="10" alt="image" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+
 
 ## 📫 Connect with Me
 
